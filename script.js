@@ -85,7 +85,7 @@ const businesses = [
     chatLink: "https://www.ebay.com/help/",
     country: "USA",
     returnPolicy: "Usually final sale orders. In some cases, 60 Days from delivery date or as indicated on the listing's agreement",
-    description: "INTERNAL INFO ONLY: Most products sold by Zinus under eBay are OSMI (Obsolete and Slow Moving Inventory) products, usually no longer covered by warranty due to the item no longer being manufactured. It is being sold at a low cost due to missing returns and warranty coverage and sold as-is"
+    description: "(INTERNAL INFO ONLY) Most products sold by Zinus under eBay are OSMI (Obsolete and Slow Moving Inventory) products, usually no longer covered by warranty due to the item no longer being manufactured. It is being sold at a low cost due to missing returns and warranty coverage and sold as-is"
   },
   {
     name: "Mattress Firm",
