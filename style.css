@@ -1,0 +1,26 @@
+body {
+  font-family: Proxima Nova, sans-serif;
+  margin: 2rem;
+  background-color: #D6E7D0;
+}
+h1 {
+  color: #003628;
+}
+.filters {
+  margin-bottom: 1rem;
+}
+input, select {
+  padding: 0.5rem;
+  margin-right: 0.5rem;
+}
+.business-card {
+  background: white;
+  padding: 1rem;
+  margin: 0.5rem 0;
+  border-radius: 8px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
+a {
+  color: blue;
+  text-decoration: underline;
+}
