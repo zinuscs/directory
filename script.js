@@ -16,7 +16,7 @@ const businesses = [
     description: "All claims should be redirected to Costco - whether within or outside the return window"
   },
   {
-    name: "Home Depot",
+    name: "The Home Depot",
     contact: "(Online Orders: 800 - 430 - 3376) (In-store: 800 - 466 - 3337)",
     chatLink: "https://www.homedepot.com/c/customer-service",
     country: "Zinus USA",
