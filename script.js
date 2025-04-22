@@ -96,7 +96,7 @@ const businesses = [
     description: "All claims should be redirected to Mattress Firm - whether within or outside the return window"
   },
   {
-    name: "Coffee Corner",
+    name: "BEYOND THIS POINT, STOCK INFORMATION",
     contact: "hello@coffeecorner.com",
     chatLink: "https://wa.me/1234567890",
     country: "USA",
