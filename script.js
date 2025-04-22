@@ -3,7 +3,7 @@ const businesses = [
     name: "Amazon USA",
     contact: "888 - 280 - 4331",
     chatLink: "https://amazon.com/contact-us",
-    country: "USA",
+    country: "Zinus USA",
     returnPolicy: "100 days from date of delivery on mattresses, 30 days from date of delivery on all other items",
     description: "Pushback once for return request, then assist if customer refuses and/or states that they were not assisted/declined assistance from Amazon"
   },
@@ -11,7 +11,7 @@ const businesses = [
     name: "Costco",
     contact: "800 - 955 - 2292",
     chatLink: "https://customerservice.costco.com/",
-    country: "USA",
+    country: "Zinus USA",
     returnPolicy: "30 days from date of delivery",
     description: "All claims should be redirected to Costco - whether within or outside the return window"
   },
@@ -19,7 +19,7 @@ const businesses = [
     name: "Home Depot",
     contact: "(Online Orders: 800 - 430 - 3376) (In-store: 800 - 466 - 3337)",
     chatLink: "https://www.homedepot.com/c/customer-service",
-    country: "USA",
+    country: "Zinus USA",
     returnPolicy: "30 Days for online, 90 Days for in-store",
     description: "-"
   },
@@ -27,7 +27,7 @@ const businesses = [
     name: "Bed, Bath & Beyond (Formerly Overstock)",
     contact: "800 - 843 - 2446",
     chatLink: "https://help.bedbathandbeyond.com/help/s/",
-    country: "USA",
+    country: "Zinus USA",
     returnPolicy: "30 Days from date of delivery",
     description: "All claims should be redirected to BB&B - whether within or outside the return window"
   },
@@ -35,7 +35,7 @@ const businesses = [
     name: "Sam's Club",
     contact: "888 - 746 - 7726",
     chatLink: "https://help.samsclub.com/app/chat/chat_launch",
-    country: "USA",
+    country: "Zinus USA",
     returnPolicy: "30 Days for online, 90 Days for in-store",
     description: "-"
   },
@@ -43,7 +43,7 @@ const businesses = [
     name: "Target",
     contact: "800 - 591 - 3869",
     chatLink: "https://contactus.target.com/ContactUs?",
-    country: "USA",
+    country: "Zinus USA",
     returnPolicy: "30 Days for online, 90 Days for in-store",
     description: "-"
   },
@@ -51,7 +51,7 @@ const businesses = [
     name: "Walmart",
     contact: "800 - 925 - 6278",
     chatLink: "https://www.walmart.com/help",
-    country: "USA",
+    country: "Zinus USA",
     returnPolicy: "90 Days for both online and in-store purchase",
     description: "Pushback once for return request, then assist if customer refuses and/or states that they were not assisted/declined assistance from Walmart"
   },
@@ -59,7 +59,7 @@ const businesses = [
     name: "Wayfair",
     contact: "844 - 540 - 1052",
     chatLink: "https://www.wayfair.com/help-and-contact",
-    country: "USA",
+    country: "Zinus USA",
     returnPolicy: "No returns. All sales are final.",
     description: "All claims should be redirected to Wayfair - whether within or outside the return window"
   },
@@ -67,7 +67,7 @@ const businesses = [
     name: "Macy's",
     contact: "800 - 289 - 6229",
     chatLink: "https://customerservice-macys.com/chat",
-    country: "USA",
+    country: "Zinus USA",
     returnPolicy: "180 Days from date of purchase",
     description: "-"
   },
@@ -75,7 +75,7 @@ const businesses = [
     name: "Chewy",
     contact: "800 - 672 - 4399",
     chatLink: "https://www.chewy.com/app/content/contact",
-    country: "USA",
+    country: "Zinus USA",
     returnPolicy: "1 Year from date of purchase",
     description: "Resellers specific for any type of pet products. 1 Year warranty applies after the duration of the return window"
   },
@@ -83,7 +83,7 @@ const businesses = [
     name: "eBay",
     contact: "866 - 540 - 3229",
     chatLink: "https://www.ebay.com/help/",
-    country: "USA",
+    country: "Zinus USA",
     returnPolicy: "Usually final sale orders. In some cases, 60 Days from delivery date or as indicated on the listing's agreement",
     description: "<strong>(INTERNAL INFO ONLY)</strong> Most products sold by Zinus under eBay are OSMI (Obsolete and Slow Moving Inventory) products, usually no longer covered by warranty due to the item no longer being manufactured. It is being sold at a low cost due to missing returns and warranty coverage and sold as-is"
   },
@@ -91,7 +91,7 @@ const businesses = [
     name: "Mattress Firm",
     contact: "877 - 384 - 2903",
     chatLink: "no chat support",
-    country: "USA",
+    country: "Zinus USA",
     returnPolicy: "120 Night Trial from delivery date",
     description: "All claims should be redirected to Mattress Firm - whether within or outside the return window"
   },
