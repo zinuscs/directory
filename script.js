@@ -96,44 +96,44 @@ const businesses = [
     description: "All claims should be redirected to Mattress Firm - whether within or outside the return window"
   },
   {
-    name: "BEYOND THIS POINT, STOCK INFORMATION",
-    contact: "hello@coffeecorner.com",
-    chatLink: "https://wa.me/1234567890",
-    country: "USA",
-    returnPolicy: "No returns. All sales are final.",
-    description: "A cozy café offering organic coffee and pastries."
+    name: "Employment Verification, Zinus HQ",
+    contact: "zinus_sales_hr@zinus.com",
+    chatLink: "-",
+    country: "Zinus USA",
+    returnPolicy: "-",
+    description: "For contacts asking for employment status at Zinus. Ask the person to send a message to the email provided"
   },
   {
-    name: "Coffee Corner",
-    contact: "hello@coffeecorner.com",
-    chatLink: "https://wa.me/1234567890",
-    country: "USA",
-    returnPolicy: "No returns. All sales are final.",
-    description: "A cozy café offering organic coffee and pastries."
+    name: "Affirm",
+    contact: "855 - 423 - 3729 | help@affirm.com",
+    chatLink: "https://helpcenter.affirm.com/s/contact-us",
+    country: "Zinus USA",
+    returnPolicy: "-",
+    description: "For any questions customer has regarding thier Affirm addition to an order."
   },
   {
-    name: "Coffee Corner",
-    contact: "hello@coffeecorner.com",
-    chatLink: "https://wa.me/1234567890",
-    country: "USA",
-    returnPolicy: "No returns. All sales are final.",
-    description: "A cozy café offering organic coffee and pastries."
+    name: "Customatic Bed Frame (Legacy - 2019 and below purchases)",
+    contact: "720 - 458 - 5955 | sales@customaticbeds.com",
+    chatLink: "-",
+    country: "Zinus USA",
+    returnPolicy: "-",
+    description: "For warranty questions or concern with the adjustable bases purchased before September 2019. Available Monday to Saturday: 9:00 - 21:00 EST"
   },
   {
-    name: "Coffee Corner",
-    contact: "hello@coffeecorner.com",
-    chatLink: "https://wa.me/1234567890",
-    country: "USA",
-    returnPolicy: "No returns. All sales are final.",
-    description: "A cozy café offering organic coffee and pastries."
+    name: "Logistics, Zinus HQ",
+    contact: "outbound_tr@zinus.com",
+    chatLink: "-",
+    country: "Zinus USA",
+    returnPolicy: "-",
+    description: "For all transportation companies that want to contact the Zinus Logistics team because they are interested in providing services."
   },
   {
-    name: "Coffee Corner",
-    contact: "hello@coffeecorner.com",
-    chatLink: "https://wa.me/1234567890",
-    country: "USA",
-    returnPolicy: "No returns. All sales are final.",
-    description: "A cozy café offering organic coffee and pastries."
+    name: "LoadUp Pickup",
+    contact: "844 - 239 - 7711",
+    chatLink: "-",
+    country: "Zinus USA",
+    returnPolicy: "-",
+    description: "If the customer did not receive and email in the next 24 hours, adv to contact LoadUp team via email or contact their hotline. You can also provide the LoadUp PickUp ID on their order information on Shopify. If no LoadUp Pickup ID generated on the order, please reach out to Tracy Leaders."
   },
   {
     name: "Coffee Corner",
